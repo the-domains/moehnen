@@ -1,7 +1,7 @@
 name: moehnen
 favicon: null
-layout_spectrum: 0.7728376160375774
-typography_spectrum: 0.8736787638626993
+layout_spectrum: 0.31528
+typography_spectrum: 0.55941
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#132780'
+    - '#ff2400'
+    - '#ffffff'
+    - '#4e5d9f'
+    - '#97a0c7'
   brandStrength: 0.8328089320566505
   lightness: 0.8918246091343462
   saturation: 0.3710787408053875
